@@ -8,8 +8,8 @@ export class AuthService {
   auth0 = new auth0.WebAuth({
     audience: 'http://127.0.0.1/',
     scope: 'openid profile',
-    clientID: '2Rm4Wn8g051TWpGELGuNEk31VcwXbh6y',
-    domain: 'ysor.eu.auth0.com',
+    clientID: 'CLIENTID',
+    domain: 'DOMAIN',
     responseType: 'token id_token',
     redirectUri: 'http://localhost:4200/',
   });
