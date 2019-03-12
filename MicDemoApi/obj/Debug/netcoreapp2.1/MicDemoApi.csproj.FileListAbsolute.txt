@@ -1,0 +1,14 @@
+C:\Users\CCM501\OneDrive - ENGIE\06. Private\MIC 2019\MicDemoApi\bin\Debug\netcoreapp2.1\MicDemoApi.deps.json
+C:\Users\CCM501\OneDrive - ENGIE\06. Private\MIC 2019\MicDemoApi\bin\Debug\netcoreapp2.1\MicDemoApi.runtimeconfig.json
+C:\Users\CCM501\OneDrive - ENGIE\06. Private\MIC 2019\MicDemoApi\bin\Debug\netcoreapp2.1\MicDemoApi.runtimeconfig.dev.json
+C:\Users\CCM501\OneDrive - ENGIE\06. Private\MIC 2019\MicDemoApi\bin\Debug\netcoreapp2.1\MicDemoApi.dll
+C:\Users\CCM501\OneDrive - ENGIE\06. Private\MIC 2019\MicDemoApi\bin\Debug\netcoreapp2.1\MicDemoApi.pdb
+C:\Users\CCM501\OneDrive - ENGIE\06. Private\MIC 2019\MicDemoApi\obj\Debug\netcoreapp2.1\MicDemoApi.csprojAssemblyReference.cache
+C:\Users\CCM501\OneDrive - ENGIE\06. Private\MIC 2019\MicDemoApi\obj\Debug\netcoreapp2.1\MicDemoApi.csproj.CoreCompileInputs.cache
+C:\Users\CCM501\OneDrive - ENGIE\06. Private\MIC 2019\MicDemoApi\obj\Debug\netcoreapp2.1\MicDemoApi.RazorAssemblyInfo.cache
+C:\Users\CCM501\OneDrive - ENGIE\06. Private\MIC 2019\MicDemoApi\obj\Debug\netcoreapp2.1\MicDemoApi.RazorAssemblyInfo.cs
+C:\Users\CCM501\OneDrive - ENGIE\06. Private\MIC 2019\MicDemoApi\obj\Debug\netcoreapp2.1\MicDemoApi.AssemblyInfoInputs.cache
+C:\Users\CCM501\OneDrive - ENGIE\06. Private\MIC 2019\MicDemoApi\obj\Debug\netcoreapp2.1\MicDemoApi.AssemblyInfo.cs
+C:\Users\CCM501\OneDrive - ENGIE\06. Private\MIC 2019\MicDemoApi\obj\Debug\netcoreapp2.1\MicDemoApi.RazorTargetAssemblyInfo.cache
+C:\Users\CCM501\OneDrive - ENGIE\06. Private\MIC 2019\MicDemoApi\obj\Debug\netcoreapp2.1\MicDemoApi.dll
+C:\Users\CCM501\OneDrive - ENGIE\06. Private\MIC 2019\MicDemoApi\obj\Debug\netcoreapp2.1\MicDemoApi.pdb
